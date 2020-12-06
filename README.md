@@ -9,6 +9,13 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: ....
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://www.renfei.net)
+
 ### Connect with me:
 
 [<img align="left" alt="renfei.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
