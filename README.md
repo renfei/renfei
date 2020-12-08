@@ -1,4 +1,8 @@
-### Hi there, I'm [RenFei][website] 👋
+![Ren Fei](https://github.com/renfei/renfei/blob/master/image/github_banner.jpg)
+
+# Ren Fei
+
+### Hi there, I'm RenFei 👋
 
 [![Website](https://img.shields.io/website?label=renfei.net&style=for-the-badge&url=https%3A%2F%2Fwww.renfei.net)](https://www.renfei.net)
 
