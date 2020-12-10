@@ -16,11 +16,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [网站优化（五）：前端页面性能优化分享](https://www.renfei.net/posts/1003422)
 - [网站优化（四）：SpringBoot的优化与技术选型](https://www.renfei.net/posts/1003421)
 - [Parallels Desktop For Mac 16.0.1.48911 破解版 [TNT]](https://www.renfei.net/posts/1003420)
 - [CleanMyMac X 破解版 [TNT] 4.6.15](https://www.renfei.net/posts/1003419)
 - [分享我拿到Github被占用/抢注用户名的方法](https://www.renfei.net/posts/1003418)
-- [网站优化（三）：缓存策略优化（CDN/动静分离/Cache-control）](https://www.renfei.net/posts/1003417)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
