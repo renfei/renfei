@@ -16,11 +16,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [我理解的解决DDoS攻击方式参考Cloudflare的任播(Anycast)技术](https://www.renfei.net/posts/1003426)
 - [解决百度统计被刷广告的办法，屏蔽非法广告](https://www.renfei.net/posts/1003425)
 - [CleanMyMac X 破解版 [TNT] 4.7.1](https://www.renfei.net/posts/1003424)
 - [CentOS 8 将在 2021 年结束支持，或许未来不会再有免费的RHEL了](https://www.renfei.net/posts/1003423)
 - [网站优化（五）：前端页面性能优化分享](https://www.renfei.net/posts/1003422)
-- [网站优化（四）：SpringBoot的优化与技术选型](https://www.renfei.net/posts/1003421)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
