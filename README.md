@@ -16,11 +16,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google 回应12月14日全球宕机：内部存储配额问题导致](https://www.renfei.net/posts/1003428)
 - [网站广告Google AdSense由于存在无效流量问题《针对您的 AdSense 帐号设置了广告投放限制》](https://www.renfei.net/posts/1003427)
 - [我理解的解决DDoS攻击方式参考Cloudflare的任播(Anycast)技术](https://www.renfei.net/posts/1003426)
 - [解决百度统计被刷广告的办法，屏蔽非法广告](https://www.renfei.net/posts/1003425)
 - [CleanMyMac X 破解版 [TNT] 4.7.1](https://www.renfei.net/posts/1003424)
-- [CentOS 8 将在 2021 年结束支持，或许未来不会再有免费的RHEL了](https://www.renfei.net/posts/1003423)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
