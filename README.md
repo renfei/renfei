@@ -1,5 +1,3 @@
-![Ren Fei](https://github.com/renfei/renfei/blob/master/image/github_banner.jpg)
-
 # Ren Fei
 
 ### Hi there, I'm RenFei 👋
