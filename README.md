@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [大数据ETL技术中的数据抽取方法](https://www.renfei.net/posts/1003431)
 - [账号系统与社区论坛已经上线开放啦](https://www.renfei.net/posts/1003430)
 - [Java Spring Boot 项目与 Discuz! 论坛同步登录登出 会员打通 discuz-ucenter-api-for-java](https://www.renfei.net/posts/1003429)
 - [Google 回应12月14日全球宕机：内部存储配额问题导致](https://www.renfei.net/posts/1003428)
 - [网站广告Google AdSense由于存在无效流量问题《针对您的 AdSense 帐号设置了广告投放限制》](https://www.renfei.net/posts/1003427)
-- [我理解的解决DDoS攻击方式参考Cloudflare的任播(Anycast)技术](https://www.renfei.net/posts/1003426)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
