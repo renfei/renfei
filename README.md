@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [网站挂 Google AdSense 广告每个月到底能盈利收入多少钱](https://www.renfei.net/posts/1003435)
 - [制作BT(BitTorrent)种子和磁力链接教程通过BT分享文件](https://www.renfei.net/posts/1003434)
 - [docker exited(code) docker 的异常退出码含义解释分析](https://www.renfei.net/posts/1003433)
 - [GitHub拆墙，恢复伊朗地区开发者使用，此前因美制裁措施封禁伊朗开发者](https://www.renfei.net/posts/1003432)
 - [大数据ETL技术中的数据抽取方法](https://www.renfei.net/posts/1003431)
-- [账号系统与社区论坛已经上线开放啦](https://www.renfei.net/posts/1003430)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
