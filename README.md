@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chromium 禁止使用 Google Sync API 接口 Linux 发行版社区考虑移除 Chromium 软件包](https://www.renfei.net/posts/1003438)
 - [CentOS 2021年底停更以后开发者不买账，红帽 RedHat 急眼了推出免费 RHEL 版本](https://www.renfei.net/posts/1003437)
 - [谷歌宣布将在 Chrome 88 中添加新的密码保护功能](https://www.renfei.net/posts/1003436)
 - [网站挂 Google AdSense 广告每个月到底能盈利收入多少钱](https://www.renfei.net/posts/1003435)
 - [制作BT(BitTorrent)种子和磁力链接教程通过BT分享文件](https://www.renfei.net/posts/1003434)
-- [docker exited(code) docker 的异常退出码含义解释分析](https://www.renfei.net/posts/1003433)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
