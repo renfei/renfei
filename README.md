@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [知名博客卢松松博客因内容涉政lusongsong.com域名被停止解析](https://www.renfei.net/posts/1003442)
 - [企业版 iOS IPA 安装包分发与 plist 文件生成教程 通过 itms-services 协议在线安装 IPA](https://www.renfei.net/posts/1003441)
 - [继 QQ 读用户浏览器之后，微信 PC 客户端也被报出扫描用户浏览器信息](https://www.renfei.net/posts/1003440)
 - [OmniPlan 激活/破解 密钥/密匙/Key/License](https://www.renfei.net/posts/1003439)
 - [Chromium 禁止使用 Google Sync API 接口 Linux 发行版社区考虑移除 Chromium 软件包](https://www.renfei.net/posts/1003438)
-- [CentOS 2021年底停更以后开发者不买账，红帽 RedHat 急眼了推出免费 RHEL 版本](https://www.renfei.net/posts/1003437)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
