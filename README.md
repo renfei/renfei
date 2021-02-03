@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [数据仓库的概念（二）：数据仓库的分层设计](https://www.renfei.net/posts/1003446)
 - [数据仓库的概念（一）：什么是数据仓库与数据库有什么不同](https://www.renfei.net/posts/1003445)
 - [大数据技术入门级系列教程](https://www.renfei.net/posts/1003444)
 - [百度上线”百度诊站“网站工具可检测网站健康度运行情况](https://www.renfei.net/posts/1003443)
 - [知名博客卢松松博客因内容涉政lusongsong.com域名被停止解析](https://www.renfei.net/posts/1003442)
-- [企业版 iOS IPA 安装包分发与 plist 文件生成教程 通过 itms-services 协议在线安装 IPA](https://www.renfei.net/posts/1003441)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
