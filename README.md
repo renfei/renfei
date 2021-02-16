@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL 语句中 Like 模糊查询基本语法介绍](https://www.renfei.net/posts/1003451)
 - [大数据ETL技术中对数据进行局部哈希对比优化对比速度](https://www.renfei.net/posts/1003450)
 - [数据仓库的概念（四）：全量表、增量表、拉链表、流水表、快照表](https://www.renfei.net/posts/1003449)
 - [Linux、Unix、MacOS 存在 sudo 漏洞(CVE-2021-3156) 利用复现](https://www.renfei.net/posts/1003448)
 - [数据仓库的概念（三）：数据模型设计事实表、维度表、星型模型、雪花模型](https://www.renfei.net/posts/1003447)
-- [数据仓库的概念（二）：数据仓库的分层设计](https://www.renfei.net/posts/1003446)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
