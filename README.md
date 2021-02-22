@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [数据库 MariaDB/MySQL 忽略大小写敏感设置（Linux下的Ubuntu环境）](https://www.renfei.net/posts/1003453)
 - [Hadoop入门教程（一）：Hadoop 是什么 Hadoop 由什么组成](https://www.renfei.net/posts/1003452)
 - [SQL 语句中 Like 模糊查询基本语法介绍](https://www.renfei.net/posts/1003451)
 - [大数据ETL技术中对数据进行局部哈希对比优化对比速度](https://www.renfei.net/posts/1003450)
 - [数据仓库的概念（四）：全量表、增量表、拉链表、流水表、快照表](https://www.renfei.net/posts/1003449)
-- [Linux、Unix、MacOS 存在 sudo 漏洞(CVE-2021-3156) 利用复现](https://www.renfei.net/posts/1003448)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
