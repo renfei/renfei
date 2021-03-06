@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTPS(SSL) 网站 使用 discuz-ucenter-api-for-java 的更新](https://www.renfei.net/posts/1003456)
 - [使用 DBeaver 连接 达梦(DaMeng) 数据库 的教程](https://www.renfei.net/posts/1003455)
 - [关于更正《大数据ETL技术中的数据抽取方法》](https://www.renfei.net/posts/1003454)
 - [数据库 MariaDB/MySQL 忽略大小写敏感设置（Linux下的Ubuntu环境）](https://www.renfei.net/posts/1003453)
 - [Hadoop入门教程（一）：Hadoop 是什么 Hadoop 由什么组成](https://www.renfei.net/posts/1003452)
-- [SQL 语句中 Like 模糊查询基本语法介绍](https://www.renfei.net/posts/1003451)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
