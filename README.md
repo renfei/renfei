@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS 更换用户名后引起的程序错误解决 修改程序配置文件为新用户名](https://www.renfei.net/posts/1003460)
 - [Hadoop入门教程（三）：Hadoop 单节点本地运行与伪分布式](https://www.renfei.net/posts/1003459)
 - [Hadoop入门教程（二）：Hadoop 的安装教程](https://www.renfei.net/posts/1003458)
 - [Parallels Desktop 网络初始化失败 USB 不能连接设备](https://www.renfei.net/posts/1003457)
 - [HTTPS(SSL) 网站 使用 discuz-ucenter-api-for-java 的更新](https://www.renfei.net/posts/1003456)
-- [使用 DBeaver 连接 达梦(DaMeng) 数据库 的教程](https://www.renfei.net/posts/1003455)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
