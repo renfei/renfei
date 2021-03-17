@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hadoop入门教程（七）：HDFS 数据读写流程](https://www.renfei.net/posts/1003466)
 - [开发创建自定义 NiFi Processor 的教程](https://www.renfei.net/posts/1003465)
 - [Hadoop入门教程（六）：Hadoop API 使用编程的方式操作 HDFS](https://www.renfei.net/posts/1003464)
 - [Spring Boot 在 Jar 包中使用 getInputStream 获取文件流的验证](https://www.renfei.net/posts/1003463)
 - [Hadoop入门教程（五）：HDFS 分布式文件系统](https://www.renfei.net/posts/1003462)
-- [Hadoop入门教程（四）：Hadoop 完全分布式集群环境](https://www.renfei.net/posts/1003461)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
