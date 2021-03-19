@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitLab 落地中国与红杉宽带、高成资本合作成立：极狐信息技术（湖北）有限公司](https://www.renfei.net/posts/1003469)
+- [Hadoop入门教程（九）：本地搭建 Hadoop 开发环境](https://www.renfei.net/posts/1003468)
 - [Hadoop入门教程（八）：DataNode 工作原理](https://www.renfei.net/posts/1003467)
 - [Hadoop入门教程（七）：HDFS 数据读写流程](https://www.renfei.net/posts/1003466)
 - [开发创建自定义 NiFi Processor 的教程](https://www.renfei.net/posts/1003465)
-- [Hadoop入门教程（六）：Hadoop API 使用编程的方式操作 HDFS](https://www.renfei.net/posts/1003464)
-- [Spring Boot 在 Jar 包中使用 getInputStream 获取文件流的验证](https://www.renfei.net/posts/1003463)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
