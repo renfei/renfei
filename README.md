@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hadoop入门教程（十二）：Hadoop 的 Writable 类](https://www.renfei.net/posts/1003472)
 - [Hadoop入门教程（十一）：编程的方式使用 MapReduce 实现 WordCount 案例](https://www.renfei.net/posts/1003471)
 - [Hadoop入门教程（十）：初见 MapReduce 分布式计算](https://www.renfei.net/posts/1003470)
 - [GitLab 落地中国与红杉宽带、高成资本合作成立：极狐信息技术（湖北）有限公司](https://www.renfei.net/posts/1003469)
 - [Hadoop入门教程（九）：本地搭建 Hadoop 开发环境](https://www.renfei.net/posts/1003468)
-- [Hadoop入门教程（八）：DataNode 工作原理](https://www.renfei.net/posts/1003467)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
