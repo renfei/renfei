@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hadoop入门教程（十四）：Hadoop MapReduce Shuffle 机制](https://www.renfei.net/posts/1003474)
 - [Hadoop入门教程（十三）：Hadoop MapReduce 的切片与并行](https://www.renfei.net/posts/1003473)
 - [Hadoop入门教程（十二）：Hadoop 的 Writable 类](https://www.renfei.net/posts/1003472)
 - [Hadoop入门教程（十一）：编程的方式使用 MapReduce 实现 WordCount 案例](https://www.renfei.net/posts/1003471)
 - [Hadoop入门教程（十）：初见 MapReduce 分布式计算](https://www.renfei.net/posts/1003470)
-- [GitLab 落地中国与红杉宽带、高成资本合作成立：极狐信息技术（湖北）有限公司](https://www.renfei.net/posts/1003469)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
