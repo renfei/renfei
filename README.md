@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TLS 1.0 和 TLS 1.1 被IETF（国际互联网工程任务组）终结弃用](https://www.renfei.net/posts/1003477)
+- [Zookeeper入门教程（一）：Zookeeper简介与安装教程](https://www.renfei.net/posts/1003476)
 - [Firefox 87 将默认移除 HTTP Referrer 反向链接 以保护用户隐私](https://www.renfei.net/posts/1003475)
 - [Hadoop入门教程（十四）：Hadoop MapReduce Shuffle 机制](https://www.renfei.net/posts/1003474)
 - [Hadoop入门教程（十三）：Hadoop MapReduce 的切片与并行](https://www.renfei.net/posts/1003473)
-- [Hadoop入门教程（十二）：Hadoop 的 Writable 类](https://www.renfei.net/posts/1003472)
-- [Hadoop入门教程（十一）：编程的方式使用 MapReduce 实现 WordCount 案例](https://www.renfei.net/posts/1003471)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
