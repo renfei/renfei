@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP官方的Git代码仓库被黑提交后门代码](https://www.renfei.net/posts/1003485)
 - [反对自由软件之父 Richard M. Stallman - RMS 回归，红帽暂停对自由软件基金会（FSF）的资助](https://www.renfei.net/posts/1003484)
 - [Zookeeper入门教程（四）：走进 Zookeeper 内部](https://www.renfei.net/posts/1003483)
 - [Linux 5.12-rc5 发布：改进比想象中多 可能生成rc8版](https://www.renfei.net/posts/1003482)
 - [Zookeeper入门教程（三）：监听节点动态的小案例](https://www.renfei.net/posts/1003481)
-- [Zookeeper入门教程（二）：Zookeeper API 编程操作教程](https://www.renfei.net/posts/1003480)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
