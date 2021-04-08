@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hive入门教程（三）：Hive 的数据类型](https://www.renfei.net/posts/1003493)
 - [Debian HTML清理库发现跨站点脚本漏洞，需要尽快升级](https://www.renfei.net/posts/1003492)
 - [Java中高级高并发与多线程系列（一）：高并发与多线程有什么关系](https://www.renfei.net/posts/1003491)
 - [利用 Github Actions 的 Workflows 挖矿挖掘数字加密货币](https://www.renfei.net/posts/1003490)
 - [Hive入门教程（二）：Hive 的安装部署教程](https://www.renfei.net/posts/1003489)
-- [阿里云加入 Cloudflare 带宽联盟，Cloudflare CDN 回源 OSS 流量全免费](https://www.renfei.net/posts/1003488)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
