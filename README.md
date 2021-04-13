@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java中高级高并发与多线程系列（四）：线程运行状态的切换与操作](https://www.renfei.net/posts/1003496)
 - [Java中高级高并发与多线程系列（三）：FutureTask 类与 Callable 接口](https://www.renfei.net/posts/1003495)
 - [Java中高级高并发与多线程系列（二）：Thread 类与 Runnable 接口](https://www.renfei.net/posts/1003494)
 - [Hive入门教程（三）：Hive 的数据类型](https://www.renfei.net/posts/1003493)
 - [Debian HTML清理库发现跨站点脚本漏洞，需要尽快升级](https://www.renfei.net/posts/1003492)
-- [Java中高级高并发与多线程系列（一）：高并发与多线程有什么关系](https://www.renfei.net/posts/1003491)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
