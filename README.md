@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java中高级高并发与多线程系列（五）：线程的 synchronized 同步与死锁](https://www.renfei.net/posts/1003499)
 - [我要吐槽一下码云 Gitee 引用第三方图片失败和 issues 处理机制](https://www.renfei.net/posts/1003498)
 - [站长推送工具发布并已开源，支持百度/必应/谷歌搜索引擎的主动推送](https://www.renfei.net/posts/1003497)
 - [Java中高级高并发与多线程系列（四）：线程运行状态的切换与操作](https://www.renfei.net/posts/1003496)
 - [Java中高级高并发与多线程系列（三）：FutureTask 类与 Callable 接口](https://www.renfei.net/posts/1003495)
-- [Java中高级高并发与多线程系列（二）：Thread 类与 Runnable 接口](https://www.renfei.net/posts/1003494)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
