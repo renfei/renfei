@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java中高级高并发与多线程系列（六）：经典的生产者-消费者模型](https://www.renfei.net/posts/1003502)
 - [Redis 未授权访问漏洞分析 cleanfda 脚本复现漏洞挖矿](https://www.renfei.net/posts/1003501)
 - [记录一次 Redis 6379 被黑攻击 被设置主从同步和挖矿门罗币](https://www.renfei.net/posts/1003500)
 - [Java中高级高并发与多线程系列（五）：线程的 synchronized 同步与死锁](https://www.renfei.net/posts/1003499)
 - [我要吐槽一下码云 Gitee 引用第三方图片失败和 issues 处理机制](https://www.renfei.net/posts/1003498)
-- [站长推送工具发布并已开源，支持百度/必应/谷歌搜索引擎的主动推送](https://www.renfei.net/posts/1003497)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
