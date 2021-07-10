@@ -14,11 +14,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [软路由 OpenWRT（LEDE）x86_64 安装刷机教程](https://www.renfei.net/posts/1003505)
 - [软路由 OpenWRT（LEDE）编译教程：使用 Github 的 Actions Workflows 免费云上编译教程](https://www.renfei.net/posts/1003504)
 - [软路由 OpenWRT（LEDE）自己编译教程记录](https://www.renfei.net/posts/1003503)
 - [Java中高级高并发与多线程系列（六）：经典的生产者-消费者模型](https://www.renfei.net/posts/1003502)
 - [Redis 未授权访问漏洞分析 cleanfda 脚本复现漏洞挖矿](https://www.renfei.net/posts/1003501)
-- [记录一次 Redis 6379 被黑攻击 被设置主从同步和挖矿门罗币](https://www.renfei.net/posts/1003500)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.renfei.net)
