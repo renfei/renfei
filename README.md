@@ -12,8 +12,8 @@ My name is **RenFei(任霏)**, and I'm a Java programmer from China.
 
 ### My Personal Website and Blog
 
-If you speak Chinese, welcome to visit my blog: [www.renfei.net](https://www.renfei.net)
+If you speak Chinese, welcome to visit my blog: [www.renfei.net](https://www.renfei.net), which includes many useful tools for developers.
 
 ### BT(BitTorrent) Tracker Service
 
-I run a public BitTorrent Tracker server: [http://tracker.renfei.net:8080/announce](http://tracker.renfei.net:8080/announce)
+I run a public BitTorrent Tracker server: [http://tracker.renfei.net:8080/announce](http://tracker.renfei.net:8080/announce), which assists in communication between peers using the BitTorrent protocol, helps speed up BitTorrent downloads.
