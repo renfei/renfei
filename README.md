@@ -25,3 +25,12 @@ Since the network may use multi-layer NAT address translation, IP address query 
 * [ip.renfei.net](http://ip.renfei.net) : IPv4 and IPv6, IPv6 is generally preferred, depending on the DNS resolution of the client.
 * [ipv4.renfei.net](http://ipv4.renfei.net) : IPv4 Only.
 * [ipv6.renfei.net](http://ipv6.renfei.net) : IPv6 Only.
+
+## Contact
+
+* Email: [i@renfei.net](mailto:i@renfei.net)
+* Telegram: [https://t.me/renfei](https://t.me/renfei)
+
+### Security Vulnerability Disclosure
+
+For safety reporting methods, see: [https://www.renfei.net/.well-known/security.txt](https://www.renfei.net/.well-known/security.txt)
