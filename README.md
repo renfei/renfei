@@ -14,6 +14,10 @@ My name is **RenFei(任霏)**, and I'm a Java programmer from Mainland China.
 
 If you speak Chinese, welcome to visit my blog: [www.renfei.net](https://www.renfei.net), which includes many useful tools for developers.
 
+### Maven Public Proxy Repository
+
+[maven.renfei.net](https://maven.renfei.net) Proxy multiple Maven repositories to help developers effectively solve the problem of unable to find dependent packages and speed up program compilation and construction.
+
 ### BT(BitTorrent) Tracker Service
 
 I run a public BitTorrent Tracker server: [http://tracker.renfei.net:8080/announce](http://tracker.renfei.net:8080/announce), which assists in communication between peers using the BitTorrent protocol, helps speed up BitTorrent downloads.
