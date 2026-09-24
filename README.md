@@ -12,11 +12,7 @@ My name is **RenFei(任霏)**, and I'm a Java programmer from Mainland China.
 
 ### My Personal Website and Blog
 
-If you speak Chinese, welcome to visit my blog: [blog.renfei.net](https://blog.renfei.net), which includes many useful tools for developers.
-
-### Maven Public Proxy Repository
-
-[maven.renfei.net](https://maven.renfei.net) Proxy multiple Maven repositories to help developers effectively solve the problem of unable to find dependent packages and speed up program compilation and construction.
+Welcome to visit my blog: [blog.renfei.net](https://blog.renfei.net/en), which includes many useful tools for developers.
 
 ### BT(BitTorrent) Tracker Service
 
@@ -37,4 +33,4 @@ Since the network may use multi-layer NAT address translation, IP address query 
 
 ### Security Vulnerability Disclosure
 
-For safety reporting methods, see: [https://blog.renfei.net/.well-known/security.txt](https://blog.renfei.net/.well-known/security.txt)
+For safety reporting methods, see: [https://www.renfei.net/.well-known/security.txt](https://www.renfei.net/.well-known/security.txt)
